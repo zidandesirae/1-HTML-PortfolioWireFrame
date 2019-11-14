@@ -1,0 +1,64 @@
+
+header {
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background: white;
+    color: #777777;
+}
+nav {
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background: white;
+    color: #777777;
+}
+section {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background: white;
+    color: #777777;
+}
+.article {
+    margin: 0px;
+    padding: 15px;
+    text-align: center;
+    background: #777777;
+    color: white;
+}
+.headings {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background: white;
+    color: #777777;
+}
+.para {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background: white;
+    color: #777777;
+}
+aside {
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background: white;
+    color: #777777;
+}
+
+footer {
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background: white;
+    color: #777777;
+}
+body {
+    background: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+}
