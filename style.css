@@ -1,4 +1,11 @@
-
+body {
+    margin: auto;
+    width: 50%;
+    background: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+}
 header {
     margin: 10px;
     padding: 20px;
@@ -15,10 +22,12 @@ nav {
 }
 section {
     margin: 10px;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
     background:#ebebeb;
     color: #777777;
+    float: left;
+    width: 495px;
 }
 .article {
     margin: 0px;
@@ -34,7 +43,7 @@ section {
     background:#ebebeb;
     color: #777777;
 }
-.para {
+.p {
     margin: 10px;
     padding: 10px;
     text-align: center;
@@ -47,6 +56,9 @@ aside {
     text-align: center;
     background:#ebebeb;
     color: #777777;
+    width: 345px;
+    height: 339px;
+    display: inline-block;
 }
 
 footer {
@@ -55,12 +67,5 @@ footer {
     text-align: center;
     background:#ebebeb;
     color: #777777;
-}
-body {
-    background: #777777;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
-    width: 960px;
-    position: relative;
-    left: 12.5%;
+    clear: both;
 }
